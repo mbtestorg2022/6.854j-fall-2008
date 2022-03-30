@@ -154,7 +154,7 @@ Problem set 4 ([PDF]({{< baseurl >}}/resources/homework4))
 Problem set 5 ([PDF]({{< baseurl >}}/resources/homework5))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1 MB]({{< baseurl >}}/resources/sol5))
+([PDF - 1.1 MB]({{< baseurl >}}/resources/sol5))
 {{< tdclose >}}
 
 {{< trclose >}}

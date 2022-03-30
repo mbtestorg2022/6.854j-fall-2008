@@ -79,7 +79,7 @@ Convex programming
 
  Boyd, Stephen, and Lieven Vandenberghe. _Convex Optimization_ . Cambridge, UK: Cambridge Univ. Press, 2005. ISBN: 9780521833783
 
-Nemirovski, Arkadi. "Lectures on Modern Convex Optimization." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.7 MB](https://www.researchgate.net/publication/215601297_Lectures_on_Modern_Convex_Optimization))
+Nemirovski, Arkadi. "Lectures on Modern Convex Optimization." ([PDF - 2.7 MB](https://www.researchgate.net/publication/215601297_Lectures_on_Modern_Convex_Optimization))
 
 
 {{< tdclose >}}
