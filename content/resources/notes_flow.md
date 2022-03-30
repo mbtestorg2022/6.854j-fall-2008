@@ -7,6 +7,7 @@ description: Lecture notes on network flows, the single source shortest path pro
   a strongly polynomial bound.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-854j-advanced-algorithms-fall-2008/4064d889e5033a9915327a777d12b592_notes_flow.pdf
 file_type: application/pdf
+parent_uid: 0c7799cb-567d-771c-67b5-02098ae5d848
 resourcetype: Document
 title: Network flows
 uid: 4064d889-e503-3a99-1532-7a777d12b592
